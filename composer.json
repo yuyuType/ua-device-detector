@@ -1,0 +1,14 @@
+{
+    "name": "ua-device-detector",
+    "description": "UserAgent Device Judge Library for PHP",
+    "keywords": ["ua-device-detector"],
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Data\\": "src/Data"
+        }
+    }
+}
